@@ -1,8 +1,6 @@
 ### Welcome to my GitHub!
 <img src="https://img.shields.io/static/v1?label=Overview&message=gabriel-srodrigues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
-<br />
-
 ### About me:
 
 - 👋 Hi, I’m @gabriel-srodrigues
@@ -44,5 +42,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&hide_border=true" />
+  <img alt="gabriel-srodrigues GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&hide_border=true&theme=dark&layout=compact" />
 </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img alt="gabriel-srodrigues GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&hide_border=true&theme=dark&layout=compact" />
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-srodrigues&layout=compact)](https://github.com/gabriel-srodrigues/github-readme-stats)
