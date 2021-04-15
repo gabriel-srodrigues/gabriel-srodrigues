@@ -37,8 +37,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/gabriel-srodrigues/gabriel-srodrigues/pull/1) in [gabriel-srodrigues/gabriel-srodrigues](https://github.com/gabriel-srodrigues/gabriel-srodrigues)
-2. 💪 Opened PR [#1](https://github.com/gabriel-srodrigues/gabriel-srodrigues/pull/1) in [gabriel-srodrigues/gabriel-srodrigues](https://github.com/gabriel-srodrigues/gabriel-srodrigues)
+1. 🎉 Merged PR [#2](https://github.com/gabriel-srodrigues/gabriel-srodrigues/pull/2) in [gabriel-srodrigues/gabriel-srodrigues](https://github.com/gabriel-srodrigues/gabriel-srodrigues)
+2. 💪 Opened PR [#2](https://github.com/gabriel-srodrigues/gabriel-srodrigues/pull/2) in [gabriel-srodrigues/gabriel-srodrigues](https://github.com/gabriel-srodrigues/gabriel-srodrigues)
 <!--END_SECTION:activity-->
 </details>
 
