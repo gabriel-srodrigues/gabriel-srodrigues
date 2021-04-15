@@ -42,12 +42,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img alt="gabriel-srodrigues GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&hide_border=true&theme=dark&layout=compact" />
+  <img alt="gabriel-srodrigues GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&theme=dark" />
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img alt="gabriel-srodrigues GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&hide_border=true&theme=dark&layout=compact" />
-</details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-srodrigues&layout=compact)](https://github.com/gabriel-srodrigues/github-readme-stats)
