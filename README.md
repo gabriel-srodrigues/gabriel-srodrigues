@@ -1,5 +1,4 @@
 ### Welcome to my GitHub!
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabriel-srodrigues&show_icons=true&theme=radical&show_owner=true&layout=compact">
 <img src="https://img.shields.io/static/v1?label=Overview&message=gabriel-srodrigues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
 <br />
@@ -36,3 +35,8 @@
 - SpringBoot
 - Microservices
 - SQL, MySQL and PostgreSQL
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+</details>
