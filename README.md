@@ -1,4 +1,6 @@
 ### Welcome to my GitHub!
+<img align='right' src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&theme=dark">
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=gabriel-srodrigues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
 ### About me:
@@ -16,9 +18,6 @@
   <a href="https://www.instagram.com/g4rodrigues_/">
     <img align="left" alt="Instagram" width="20px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-  <a href="">
-    <img align="left" alt="Gmail" width="20px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
     <a href="https://gitlab.com/gabriel.srodrigues">
     <img align="left" alt="Gmail" width="20px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
   </a>
@@ -33,19 +32,4 @@
 - SpringBoot
 - Microservices
 - SQL, MySQL and PostgreSQL
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/gabriel-srodrigues/gabriel-srodrigues/pull/2) in [gabriel-srodrigues/gabriel-srodrigues](https://github.com/gabriel-srodrigues/gabriel-srodrigues)
-2. 💪 Opened PR [#2](https://github.com/gabriel-srodrigues/gabriel-srodrigues/pull/2) in [gabriel-srodrigues/gabriel-srodrigues](https://github.com/gabriel-srodrigues/gabriel-srodrigues)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img alt="gabriel-srodrigues GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&theme=dark" />
-</details>
 
