@@ -1,5 +1,4 @@
 ### Welcome to my GitHub!
-<img align='right' src="https://github-readme-stats.codestackr.vercel.app/api?username=gabriel-srodrigues&show_icons=true&theme=dark">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=gabriel-srodrigues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
