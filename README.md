@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @gabriel-srodrigues
 - :brazil: I’m Brazilian
-- :construction_worker: I'm working for [Brainweb](http://www.brainweb.com.br/)
+- :construction_worker: I'm working for [ZFlow](https://www.zflow.com.br/)
 - 🌱 I’m currently learning springboot, docker and kubernates
 - 💞️ I’m looking to collaborate on java projects!
 - 📫 How to reach me:
@@ -16,10 +16,6 @@
   </a>
   <a href="https://www.instagram.com/g4rodrigues_/">
     <img align="left" alt="Instagram" width="20px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-    <a href="https://gitlab.com/gabriel.srodrigues">
-    <img align="left" alt="Gmail" width="20px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
-  </a>
 </div>
 
 <br />
