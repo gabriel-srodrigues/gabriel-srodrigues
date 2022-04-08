@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m <b>@gabriel-srodrigues</b>
 - :brazil: I’m Brazilian,
-- :construction_worker: I'm working for [ZFlow](https://www.zflow.com.br/)
+- :construction_worker: I'm working for [Mutuus](https://www.mutuus.net)
 - 🌱 I’m currently learning springboot, docker and kubernates
 - 💞️ I’m looking to collaborate on java projects!
 
