@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Welcome to my GitHub! </h1>
 
-<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
-
+<img align='right' src='https://media.tenor.com/MCnMLxHDdGgAAAAd/sideeye.gif' width='200'>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=gabriel-srodrigues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
@@ -13,7 +12,7 @@
 
 - 👋 Hi, I’m <b>@gabriel-srodrigues</b>
 - :brazil: I’m Brazilian,
-- :construction_worker: I'm working for [Mutuus](https://www.mutuus.net)
+- :construction_worker: I'm working for F1rst Santander
 - 🌱 I’m currently learning springboot, docker and kubernates
 - 💞️ I’m looking to collaborate on java projects!
 
